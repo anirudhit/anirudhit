@@ -1,6 +1,6 @@
 # Hi, I am Anirudh Bellamkonda. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## A versatile product designer Fullstack developer with attention to flexibility, speed, and quality.
+## A Fullstack developer who precisely executes development projects from concept to delivery.
 
 <div align="left">
 <a href="https://www.linkedin.com/in/ab-force-p4695731484h/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
